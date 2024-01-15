@@ -1,4 +1,5 @@
 Analysis of Relationship Between Parameters of EMG Signal and Muscular Force using low pass filter
+
 A biomedical signal known as the electromyography (EMG) signal detects electrical currents that the muscles produce while contracting, 
 which are indicative of neuromuscular activities (Reaz, 2006). The EMG signal is a complex signal that depends on the physiological and anatomical characteristics of muscles and is regulated by the nervous system. 
 The EMG signal picks up noise as it passes through various tissues, which could result in the interplay of various signals. 
